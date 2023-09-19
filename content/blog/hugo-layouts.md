@@ -1,7 +1,7 @@
 ---
 title: "Hugo Layouts"
 date: 2023-09-18T18:48:13-04:00
-draft: true
+draft: false
 slug: hugo-layouts
 tags: ['hugo']
 ---
