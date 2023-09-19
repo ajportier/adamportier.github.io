@@ -1,9 +1,9 @@
 ---
 title: "Hello World"
 date: 2023-09-12T14:26:05-04:00
-tags:
-- helloworld
 draft: false
+slug: "hello-world"
+tags: ['helloworld']
 ---
 Hello World. Here is the latest attempt at me making a homepage, a place for my thoughts on the Internet.
 

@@ -10,7 +10,7 @@ enableRobotsTXT = true
 [params]
   author = "Adam Portier"
   avatar = "img/me_dec_2013.jpg"
-  description = "Systems Administrator Working in higher education with a focus on Linux systems"
+  description = "Systems Administrator working in higher education with a focus on Linux systems"
   
 [params.social]
   Github = "ajportier"

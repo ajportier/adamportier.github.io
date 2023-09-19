@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 draft: false
+slug: "publications"
 layout: "standalone"
 ---
 
